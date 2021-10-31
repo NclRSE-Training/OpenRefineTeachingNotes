@@ -1,4 +1,4 @@
-## Key Points
+## Episode 5 Key Points
 
 - Clustering is a way of finding variant forms of the same piece of data within a dataset (e.g. different spellings of a name)
 - There are a number of different Clustering algorithms that work in different ways and will produce different results
