@@ -19,3 +19,4 @@ Use a <code>text facet</code> for the <code>licence</code> column and answer the
   
   </details>
 
+[Episode 4 exercise 3](episode4_ex3.md)
