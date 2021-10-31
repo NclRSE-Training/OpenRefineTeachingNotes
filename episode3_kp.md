@@ -1,4 +1,4 @@
-## Key Points
+## Episode 3 Key Points
 
 
 - OpenRefine uses rows and columns to display data
