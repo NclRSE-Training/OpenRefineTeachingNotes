@@ -18,3 +18,4 @@
   
   </details>
 
+[Episode 4 exercise 4](episode4_ex4.md)
