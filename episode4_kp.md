@@ -1,4 +1,4 @@
-## Key Points
+## Episode 4 Key Points
 
 - You can use facets and filters to explore your data
 - You can use facets and filters work with a subset of data in OpenRefine
