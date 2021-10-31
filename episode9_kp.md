@@ -1,4 +1,4 @@
-## Key Points
+## Episode 9 Key Points
 
 - You can use Undo and Redo to retrace ones’ steps
 - You can save and apply a set of steps to a new set of data using the ‘Extract’ and ‘Apply’ features
