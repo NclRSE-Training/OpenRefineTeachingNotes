@@ -5,4 +5,4 @@
 1. On the publisher column use the dropdown menu to select Edit cells->Common transforms->Collapse consecutive whitespace
 1. Look at the publisher facet now - has it changed? (if it hasn’t changed try clicking the Refresh option to make sure it updates)
 
-[Episode 6 Key Points](episode6_kp.md)
+[Episode 7 Key Points](episode7_kp.md)
