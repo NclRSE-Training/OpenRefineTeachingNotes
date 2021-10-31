@@ -19,4 +19,6 @@ Solution
   </ol>
   
   </details>
+  
+  [Episode 3 Key Points](episode3_kp.md)
 
