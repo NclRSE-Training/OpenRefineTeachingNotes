@@ -9,10 +9,10 @@ Solution
 
   <ol>
     <li>Create a Text facet on the Language column</li>
-    <li>Notice that there is both EN and English</li>
-    <li>Put the mouse over the English value</li>
-    <li>Click Edit</li>
-    <li>Type EN and click Apply</li>
+    <li>Notice that there is both <code>EN</code> and <code>English</code></li>
+    <li>Put the mouse over the <code>English</code> value</li>
+    <li>Click <code>Edit</code></li>
+    <li>Type <code>EN</code> and click <code>Apply</code></li>
     <li>See how the Language facet updates</li>
   </ol>
   </details>
