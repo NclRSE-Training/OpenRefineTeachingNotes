@@ -1,4 +1,4 @@
-## Key Points
+## Episode 7 Key Points
 
 - Common transformations are available through the Menu option
 
