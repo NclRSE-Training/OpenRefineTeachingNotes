@@ -7,3 +7,5 @@
 - OpenRefine has a Records mode which links together multiple rows into a single record
 - Split and join multi-valued cells to modify the individual values within them
 - When creating multi-valued cells in your data, choose a separator that will not appear in the data values
+
+[Episode 4 Exercise 1](episode4_ex1.md)
