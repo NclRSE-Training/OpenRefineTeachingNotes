@@ -1,4 +1,4 @@
-## Key Points
+## Episode 6 Key Points
 
 - You can reorder, rename and remove columns in OpenRefine
 - Sorting in OpenRefine always sorts all rows
