@@ -4,7 +4,7 @@ What separator character is used in the Subjects cells?
 
 How would you split these subject words into individual cells?
 
-<detail>
+<details>
   <summary>
         Solution
   </summary>
@@ -17,7 +17,7 @@ To split the subject words into individual cells you need to:<br/>
     <li>In the prompt type the ( | ) symbol and click ‘OK’</li>
   </ul>
   
-  </detail>
+  </details>
   
   [Episode 3 exercise 2](episode3_ex2.md)
 
